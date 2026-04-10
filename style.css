@@ -21,7 +21,8 @@ body{
 }
 .container h2{
     padding-bottom: 30px;
-    font-size: 34px;
+    /* font-size: 34px; */
+    text-align: center;
 }
 .input-feild{
     width: 100%;
